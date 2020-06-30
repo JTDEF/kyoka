@@ -1,0 +1,20 @@
+{
+    "helpMsg1": [
+      "`settings`, `softban`, `ban`, `hackban`, `unban`, `bean`, `kick`, `mute`, `tempmute`, `warn`, `clearwarns`, `warns`, `lockdown`, `timedlockdown`, `unlockdown`, `addrole`, `removerole`, `votekick`, `rename`, `purge`"
+      ],
+    "helpMsg3": [
+      "`neko`, `nekogif`"
+    ],
+    "helpMsg4": [
+      "`about`,  `avatar`, `ping`, `serverinfo`, `uptime`, `bug`, `suggest`, `invite`, `user`, `stats`, `coins`, `pay`, `vote`, `rich`, `timer`, `colorsearch`, `currency`, `duckduckgo`"
+    ],
+    "helpMsg5": [
+      "`f`, `hug`, `pat`, `kiss`, `tickle`, `smug`, `poke`, `spank`, `cuddle`, `feed`, `baka`, `slap`, `smack`, `punch`, `hammer`, `fight`"
+    ],
+    "helpMsg7": [
+      "`help`, `"
+    ],
+    "helpMsg2": [
+      "`Play`,`search`,`skip`,`skipto`, `volume`,` pause`,`queue`,`nowplaying`,`loop` "
+    ]
+  }
