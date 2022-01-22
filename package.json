@@ -20,7 +20,7 @@
     "moment": "^2.27.0",
     "mongoose": "^5.9.20",
     "ms": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "simple-youtube-api": "^5.1.1",
     "soundcloud-downloader": "0.0.9",
     "superagent": "^5.3.1",
