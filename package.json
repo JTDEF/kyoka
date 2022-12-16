@@ -18,7 +18,7 @@
     "erela.js": "^1.1.8",
     "ffmpeg-static": "^4.2.3",
     "moment": "^2.29.2",
-    "mongoose": "^5.9.20",
+    "mongoose": "^5.13.15",
     "ms": "^2.1.2",
     "node-fetch": "^2.6.0",
     "simple-youtube-api": "^5.1.1",
